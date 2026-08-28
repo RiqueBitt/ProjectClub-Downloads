@@ -1,48 +1,37 @@
-Claro — abaixo está o conteúdo pronto para salvar como README.md:
+Claro. Aqui está somente o conteúdo do arquivo .md, pronto para salvar como README.md:
 
-# 🚀 Project Club — Downloads
+# Project Club — Downloads
 
-> 📦 **Baixe sempre a versão mais recente do Project Club** para sua plataforma.
+Os instaladores mais recentes do **Project Club** são publicados automaticamente como **Releases** deste repositório.
 
-Os instaladores oficiais do **Project Club** são publicados automaticamente como **Releases** deste repositório.
+Você pode baixar diretamente a versão mais recente pelos links abaixo ou acessar a página de Releases para consultar versões anteriores.
 
-🔄 **Não é necessário procurar arquivos em pastas ou atualizar links manualmente.**  
-Os links abaixo apontam diretamente para a **versão mais recente disponível**.
+## Downloads
 
-## 📥 Downloads
+- 🪟 **Windows** — [Baixar Project Club para Windows](../../releases/latest/download/ProjectClub-Setup-Windows.exe)
+- 🐧 **Linux** — [Baixar Project Club para Linux](../../releases/latest/download/ProjectClub-Linux.AppImage)
+- 🤖 **Android** — [Baixar Project Club para Android](../../releases/latest/download/ProjectClub.apk)
 
-| Plataforma | Download |
-|---|---|
-| 🪟 **Windows** | [⬇️ Baixar para Windows](releases/latest/download/ProjectClub-Setup-Windows.exe) |
-| 🐧 **Linux** | [⬇️ Baixar para Linux (AppImage)](releases/latest/download/ProjectClub-Linux.AppImage) |
-| 🤖 **Android** | [⬇️ Baixar para Android (APK)](releases/latest/download/ProjectClub.apk) |
+## Releases
 
-## 📦 Releases
+Para visualizar todas as versões disponíveis, changelogs e arquivos de cada lançamento:
 
-🔖 Para consultar versões anteriores, changelogs ou baixar arquivos de uma versão específica:
+[Ver todas as Releases](../../releases)
 
-👉 [📋 **Ver todas as Releases**](../../releases)
+## Publicação automática
 
-## ⚙️ Publicação automática
+As novas versões do **Project Club** são publicadas automaticamente pelo **GitHub Actions** do repositório principal (privado).
 
-🚀 As novas versões do **Project Club** são publicadas automaticamente por meio do **GitHub Actions** do repositório principal (privado).
+A cada nova versão:
 
-Sempre que uma nova versão do aplicativo é disponibilizada:
+1. O aplicativo é compilado automaticamente.
+2. Os instaladores são gerados para cada plataforma.
+3. Uma nova Release é criada.
+4. Os arquivos são publicados neste repositório.
+5. Os links acima passam automaticamente a apontar para a versão mais recente.
 
-1. 🔨 O projeto é compilado automaticamente.
-2. 📦 Os instaladores são gerados para cada plataforma.
-3. 🏷️ Uma nova **Release** é criada.
-4. ☁️ Os arquivos são publicados neste repositório.
-5. 🔗 Os links de download acima passam automaticamente a apontar para a nova versão.
-
-> 💡 **Tudo automático:** você não precisa atualizar os links a cada lançamento.
-
-## 🛡️ Downloads oficiais
-
-⚠️ Para garantir a segurança e a integridade do aplicativo, recomendamos baixar o **Project Club** exclusivamente pelos links disponibilizados neste repositório ou pelas **Releases oficiais**.
+> **Nota:** os links de download utilizam o endpoint `latest`, portanto não precisam ser alterados a cada novo lançamento.
 
 ---
 
-### ✨ Project Club
-
-**Um único lugar. Todas as plataformas. Sempre atualizado.** 🚀
+**Project Club — sempre atualizado, em todas as plataformas.**
