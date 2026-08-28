@@ -1,0 +1,4 @@
+# Só o AppImage precisa de LFS de verdade — é o único que passa dos
+# 100MB que o Git normal aceita (Windows .exe e Android .apk ficam bem
+# abaixo disso, sem necessidade nenhuma de LFS pra eles).
+download/*.AppImage filter=lfs diff=lfs merge=lfs -text
