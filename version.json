@@ -1,1 +1,1 @@
-{"version": "v0.0.11", "notes": "- Adiciona diagnóstico detalhado de candidatos ICE (host/srflx/relay) e do estado de coleta — prova concreta se o TURN está respondendo ou não, visível no Console (F12) quando a conexão falha"}
+{"version": "v0.0.12", "notes": "- CORRIGE bug real achado pelo diagnóstico: transceiver de áudio negociava como 'sendonly' em vez de 'sendrecv' quando o outro lado ainda não tinha microfone pronto na primeira negociação — força a direção de volta sozinho toda vez que uma faixa real é conectada"}
