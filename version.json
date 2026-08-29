@@ -1,1 +1,1 @@
-{"version": "v0.0.3", "notes": "- Landing page: fontes normais (sem pixelado), botão de download com menuzinho de plataforma (Windows/Linux/Mobile), inspirado no estilo do Discord"}
+{"version": "v0.0.4", "notes": "- Botão de download: nome 'Download App' em preto, ícones novos (brancos, exceto o do botão claro), menuzinho conectado de verdade sem sombra/hover duplicados. Corrige 'Como funciona' quebrando linha no rodapé mobile"}
