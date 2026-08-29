@@ -1,1 +1,1 @@
-{"version": "v0.0.10", "notes": "- Corrige de vez o hash do CSP do reCAPTCHA (fixa idioma pt-BR no carregamento, elimina a raiz do problema) e corrige bug real no diagnóstico de áudio (getStats() não aceita RTCRtpSender como argumento)"}
+{"version": "v0.0.11", "notes": "- Adiciona diagnóstico detalhado de candidatos ICE (host/srflx/relay) e do estado de coleta — prova concreta se o TURN está respondendo ou não, visível no Console (F12) quando a conexão falha"}
