@@ -1,1 +1,1 @@
-{"version": "v0.0.12", "notes": "- CORRIGE bug real achado pelo diagnóstico: transceiver de áudio negociava como 'sendonly' em vez de 'sendrecv' quando o outro lado ainda não tinha microfone pronto na primeira negociação — força a direção de volta sozinho toda vez que uma faixa real é conectada"}
+{"version": "v0.0.13", "notes": "- Reforça a correção de direção do transceiver — agora roda depois de QUALQUER negociação (não só quando o microfone muda), cobrindo conexões que já estivessem presas em sendonly desde antes"}
