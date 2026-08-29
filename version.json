@@ -1,1 +1,1 @@
-{"version": "v0.0.14", "notes": "- Adiciona diagnóstico de SDP real (o que cada lado propõe/responde na negociação) — mostra exatamente de qual lado o sendonly está vindo, já que a correção anterior sozinha não resolveu numa conexão totalmente nova"}
+{"version": "v0.0.15", "notes": "- Adiciona limite de segurança nas tentativas de corrigir a direção do transceiver — evita loop de renegociação se o outro lado responder recvonly de forma persistente (app dele desatualizado/em cache)"}
