@@ -1,1 +1,1 @@
-{"version": "v0.0.13", "notes": "- Reforça a correção de direção do transceiver — agora roda depois de QUALQUER negociação (não só quando o microfone muda), cobrindo conexões que já estivessem presas em sendonly desde antes"}
+{"version": "v0.0.14", "notes": "- Adiciona diagnóstico de SDP real (o que cada lado propõe/responde na negociação) — mostra exatamente de qual lado o sendonly está vindo, já que a correção anterior sozinha não resolveu numa conexão totalmente nova"}
