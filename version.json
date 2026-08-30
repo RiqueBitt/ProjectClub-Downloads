@@ -1,1 +1,1 @@
-{"version": "v0.0.29", "notes": "- Menuzinho de amigos: para de tentar recriar o estilo da lista online por conta própria — usa a classe de verdade (.members-list) direto, garantindo ser idêntica de fato em vez de uma cópia aproximada que nunca batia certinho"}
+{"version": "v0.0.30", "notes": "- Trava de vez o tamanho do menuzinho de amigos em 240px, sem depender do ajuste de --members-width que a pessoa já possa ter feito em algum canal — regra mais específica (duas classes) sobrescreve só nesse contexto, sem afetar a lista de membros de verdade em nenhum outro lugar"}
