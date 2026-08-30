@@ -1,1 +1,1 @@
-{"version": "v0.0.30", "notes": "- Trava de vez o tamanho do menuzinho de amigos em 240px, sem depender do ajuste de --members-width que a pessoa já possa ter feito em algum canal — regra mais específica (duas classes) sobrescreve só nesse contexto, sem afetar a lista de membros de verdade em nenhum outro lugar"}
+{"version": "v0.0.31", "notes": "- Remove por completo o menuzinho lateral de amigos (FriendsSideRail) — AmigosPage.jsx e o CSS voltam exatamente ao estado de antes dele existir"}
