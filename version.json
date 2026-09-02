@@ -1,1 +1,1 @@
-{"version": "v0.0.72", "notes": "- 6 correções visuais do perfil, com base nos prints enviados:"}
+{"version": "v0.0.73", "notes": "- Corrige o bug real por trás das insígnias brancas/pretas dependendo do tema (visto nos prints): era um sintoma de um problema bem mais amplo — várias partes do card de perfil 'acentuado' (perfil completo, miniperfil, e painel de perfil na conversa direta) usavam cores que MUDAM com o tema do site, em vez de cores fixas, quebrando a consistência que a cor personalizada da pessoa deveria garantir em qualquer tema."}
