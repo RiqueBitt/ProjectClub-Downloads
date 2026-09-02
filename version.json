@@ -1,1 +1,1 @@
-{"version": "v0.0.74", "notes": "- Corrige mais 4 pontos apontados: campo de escrever recado/depoimento/enquete, fundo dos cargos, botão + de cargo, e borda do avatar do perfil — todos ainda usavam variáveis dependentes do tema do site (var(--bg-deepest), var(--bg-elevated), var(--bg-primary)), com regras específicas só dentro do contexto acentuado (não mexe em <input>/.role-chip usados em qualquer outro lugar do app, tipo Configurações)."}
+{"version": "v0.0.75", "notes": "- 3 melhorias pedidas:"}
