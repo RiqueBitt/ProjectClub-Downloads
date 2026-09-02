@@ -1,1 +1,1 @@
-{"version": "v0.0.79", "notes": "- Abaixa a barra de topo (busca) mais 10px de respiro, além do exato necessário pra não encostar na barra de status do celular. Propagado consistentemente nos 4 lugares que dependem dessa mesma altura (grid do app em 2 lugares, a barra em si, e o posicionamento do perfil completo) — senão o espaço reservado ficaria menor que a barra realmente ocupa, cortando conteúdo de novo (mesmo bug já corrigido antes)"}
+{"version": "v0.0.80", "notes": "- Melhora o sistema de Conquistas (parte 1 do pedido):"}
