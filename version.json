@@ -1,1 +1,1 @@
-{"version": "v0.0.90", "notes": "- Corrige 'clicar pra abrir a categoria não faz nada, mesmo tendo canais dentro': achei a causa real — a versão anterior abria um menu suspenso (position: absolute) logo abaixo da categoria, mas o container da barra tem overflow-x: auto pra rolagem, e isso recorta automaticamente qualquer coisa que ultrapasse a altura visível dele, incluindo esse menu (o estado mudava de verdade, só que nada aparecia na tela)."}
+{"version": "v1.0.1", "notes": "- 4 correções pedidas:"}
