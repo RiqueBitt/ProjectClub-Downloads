@@ -1,1 +1,1 @@
-{"version": "v0.0.86", "notes": "- Cria a tela de carregamento pedida — logo do Project Club + texto 'Carregando...' + spinner redondo — substituindo o esqueleto tipo Discord/Instagram que existia antes."}
+{"version": "v0.0.87", "notes": "- Corrige o flash de tela azul escura que aparece ANTES até da nova tela de carregamento — achei duas causas reais, uma em cada plataforma:"}
