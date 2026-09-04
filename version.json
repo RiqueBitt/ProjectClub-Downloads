@@ -1,1 +1,1 @@
-{"version": "v1.0.14", "notes": "- Adiciona poder mover um canal pra outra categoria (ou pra 'sem categoria') no Painel da Staff:"}
+{"version": "v1.0.15", "notes": "- Repaginação de Configurações — 2ª fase: consistência visual entre abas\n- Repaginação de Configurações — 1ª fase: aba Minha Conta + 2 bugs corrigidos (dado o tamanho do pedido, seguindo em blocos testados)"}
