@@ -1,1 +1,1 @@
-{"version": "v1.0.11", "notes": "- Corrige de vez o posicionamento do menu de GIF/emoji no PC ('muito pra esquerda, muito largo') — troca completa de abordagem, com 2 bugs sérios pegos e corrigidos no processo:"}
+{"version": "v1.0.12", "notes": "- URGENTE: corrige o 'Algo deu errado' aparecendo em loop toda vez que a página carregava — bug crítico que eu mesmo introduzi na resposta anterior:"}
