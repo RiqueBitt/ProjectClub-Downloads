@@ -1,1 +1,1 @@
-{"version": "v1.0.9", "notes": "- Corrige o menu de GIF/emoji no PC passando por trás da lista de membros ('usuários online') — bug real que introduzi na resposta anterior:\n- PC: menu de GIF/emoji mais largo, menos alto, e mais pra direita:\n- Corrige de vez o menu de GIF/emoji cobrindo a barra de escrever no mobile — achei que minha correção anterior só se aplicava ao DESKTOP:"}
+{"version": "v1.0.10", "notes": "- 2 correções:"}
