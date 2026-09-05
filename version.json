@@ -1,1 +1,1 @@
-{"version": "v1.0.38", "notes": "- Corrige a caixinha de 'não sou um robô' não aparecendo no painel de cadastro"}
+{"version": "v1.0.39", "notes": "- Mesmo com a chave configurada, se a verificação não responder em 3 segundos, deixa se inscrever sem precisar dela"}
