@@ -1,1 +1,1 @@
-{"version": "v1.0.28", "notes": "- Corrige 2 pontos do Mini Perfil:"}
+{"version": "v1.0.29", "notes": "- Mini Perfil mostra jogo/app/música (Rich Presence), reaproveitando o sistema que já existia no perfil completo"}
