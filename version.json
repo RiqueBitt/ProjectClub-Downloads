@@ -1,1 +1,1 @@
-{"version": "v1.0.36", "notes": "- 2 bugs reais corrigidos nos estilos de emoji (Twemoji/Noto/Fluent/OpenMoji):"}
+{"version": "v1.0.37", "notes": "- Sistema completo de figurinhas pra chat — podendo criar/excluir no Painel da Staff, aparecendo como uma opção ao abrir o menu de emoji\n- Reduz o tamanho de algumas fontes do Estilo do nome que ficavam grandes demais"}
