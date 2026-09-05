@@ -1,1 +1,1 @@
-{"version": "v1.0.37", "notes": "- Sistema completo de figurinhas pra chat — podendo criar/excluir no Painel da Staff, aparecendo como uma opção ao abrir o menu de emoji\n- Reduz o tamanho de algumas fontes do Estilo do nome que ficavam grandes demais"}
+{"version": "v1.0.38", "notes": "- Corrige a caixinha de 'não sou um robô' não aparecendo no painel de cadastro"}
