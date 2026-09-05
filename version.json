@@ -1,1 +1,1 @@
-{"version": "v1.0.39", "notes": "- Mesmo com a chave configurada, se a verificação não responder em 3 segundos, deixa se inscrever sem precisar dela"}
+{"version": "v1.0.40", "notes": "- Remove totalmente a verificação 'não sou um robô' — dado o histórico de problemas repetidos com ela, mais simples e confiável simplesmente não ter esse sistema"}
