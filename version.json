@@ -1,1 +1,1 @@
-{"version": "v1.0.49", "notes": "- Emoji personalizado aparece como imagem de verdade enquanto você digita, não mais como texto :nome:\n- Corrige o emoji personalizado sem categoria, tudo junto — no chat principal e nas reações, que eram os dois lugares mais usados"}
+{"version": "v1.0.50", "notes": "- Sistema de Clãs — fase 2: backend completo (API, permissões, chat, voz via socket)"}
