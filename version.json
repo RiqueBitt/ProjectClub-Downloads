@@ -1,1 +1,1 @@
-{"version": "v1.0.47", "notes": "- Deixa mais fácil apagar/editar coleções, e reorganiza o formulário de edição"}
+{"version": "v1.0.48", "notes": "- Corrige o destaque de 'canal com mensagem nova' aparecendo pra todo mundo em qualquer mensagem — agora só acende pra quem foi mencionado diretamente ou respondido\n- Otimização real de carregamento de imagens (banner, avatar, ícone, carteirinha — tudo que passa pelo proxy de imagens)"}
