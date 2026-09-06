@@ -1,1 +1,1 @@
-{"version": "v1.0.55", "notes": "- 2 correções:"}
+{"version": "v1.0.56", "notes": "- Achada a causa real da tag PROJ (minha investigação anterior mirou no lugar errado) + tag do clã integrada em Configurações > Exibição"}
