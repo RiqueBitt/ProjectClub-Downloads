@@ -1,1 +1,1 @@
-{"version": "v1.0.75", "notes": "- Quem não tem foto de perfil já aparece com o fundo colorido + inicial na lista de menção, igual em qualquer outro lugar do app"}
+{"version": "v1.0.76", "notes": "- Sistema de envio de arquivo/imagem atualizado — grade de miniaturas, spoiler, e galeria com setas na visualização ampliada\n- Muda a cor da caixinha de menção (@user) de amarelo pra azul suave"}
