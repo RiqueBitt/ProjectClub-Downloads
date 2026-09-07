@@ -1,1 +1,1 @@
-{"version": "v1.0.76", "notes": "- Sistema de envio de arquivo/imagem atualizado — grade de miniaturas, spoiler, e galeria com setas na visualização ampliada\n- Muda a cor da caixinha de menção (@user) de amarelo pra azul suave"}
+{"version": "v1.0.77", "notes": "- Grade de miniaturas maior + rolagem lateral + limite de 10 arquivos por mensagem\n- Corrige o botão de excluir imagem (na grade de miniaturas ao anexar) aparecendo gigante"}
