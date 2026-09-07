@@ -1,1 +1,1 @@
-{"version": "v1.0.65", "notes": "- 2 correções na Rich Presence (jogo/app/música):\n- Corrige o ícone de atividade na lista de membros — sempre o ícone genérico da plataforma, nunca a imagem específica da atividade"}
+{"version": "v1.0.66", "notes": "- Volta os botões de GIF e Figurinha na barra de digitar (agora 3 botões: GIF/Figurinha/Emoji, todos abrindo o mesmo menu já unificado, cada um já na aba certa) + novos ícones de emoji e figurinha"}
