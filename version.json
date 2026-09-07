@@ -1,1 +1,1 @@
-{"version": "v1.0.60", "notes": "- Continuação do pedido grande de Clãs + presença — várias correções e melhorias"}
+{"version": "v1.0.61", "notes": "- Corrige o bug visual real (círculo preto + retângulo cinza cobrindo a tela ao abrir Configurações) + diminui o tamanho das bolinhas de presença"}
