@@ -1,1 +1,1 @@
-{"version": "v1.0.77", "notes": "- Grade de miniaturas maior + rolagem lateral + limite de 10 arquivos por mensagem\n- Corrige o botão de excluir imagem (na grade de miniaturas ao anexar) aparecendo gigante"}
+{"version": "v1.0.78", "notes": "- Sistema completo de Configurações — Fase 1 (fundação): banco de dados, API, salvamento automático"}
