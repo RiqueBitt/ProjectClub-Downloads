@@ -1,1 +1,1 @@
-{"version": "v1.0.68", "notes": "- Remove o zoom extra do chat — volta pro tamanho de sempre (só o zoom geral do app de 1.2x continua valendo)\n- Diminui o zoom do chat de 1.5x pra 1.2x, como pedido\n- Diminui o zoom do chat de 2x pra 1.5x, como pedido"}
+{"version": "v1.0.69", "notes": "- Sistema de zoom personalizável do chat — de 1.0x a 2.0x, em passos de 0.1, salvo na conta"}
