@@ -1,1 +1,1 @@
-{"version": "v1.0.64", "notes": "- Atualiza o status de atividades: ícone de jogo/app/música sempre aparece, separado do status por uma bolinha só quando os dois existem"}
+{"version": "v1.0.65", "notes": "- 2 correções na Rich Presence (jogo/app/música):\n- Corrige o ícone de atividade na lista de membros — sempre o ícone genérico da plataforma, nunca a imagem específica da atividade"}
