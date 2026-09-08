@@ -1,1 +1,1 @@
-{"version": "v1.0.94", "notes": "- Análise completa das últimas 33 atualizações — 8 bugs reais achados e corrigidos\n- Liga as notificações da overlay às notificações reais do site\n- Adiciona showOverlayNotification ao preload.js"}
+{"version": "v1.0.95", "notes": "- Corrige responsividade mobile da barra lateral de Configurações"}
