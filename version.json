@@ -1,1 +1,1 @@
-{"version": "v1.0.85", "notes": "- Adiciona helpers de API pra \"Atalhos personalizados\" no client\n- Liga as rotas de /api/users/me/shortcuts ao shortcutsController\n- Adiciona backend de \"Atalhos personalizados\" (UserShortcut)"}
+{"version": "v1.0.86", "notes": "- Configurações: implementa \"Atalhos personalizados\" no Sistema"}
