@@ -1,1 +1,1 @@
-{"version": "v1.0.96", "notes": "- Cria desktop/projectMcManager.js — gerencia o ProjectMC dentro da própria instalação do Project Club\n- Importa o CSS de correção mobile das Configurações"}
+{"version": "v1.0.97", "notes": "- Cria client/src/utils/projectMc.js (camada fina sobre window.electronAPI.projectMc)\n- Adiciona a categoria \"Jogos\" na barra lateral (logo abaixo de Amigos)\n- Expõe a API do ProjectMC no preload.js (window.electronAPI.projectMc)\n- Liga o ProjectMC ao main.js via IPC (get-status/check-update/install/launch)"}
