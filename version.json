@@ -1,1 +1,1 @@
-{"version": "v1.0.82", "notes": "- Configurações: implementa a aba \"Sistema\" (Parte 3)"}
+{"version": "v1.0.83", "notes": "- Adiciona helpers de API pra \"Jogos adicionados\" no client\n- Liga as rotas de /api/users/me/games ao gamesController\n- Adiciona backend de \"Jogos adicionados\" (RegisteredGame)"}
