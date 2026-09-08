@@ -1,1 +1,1 @@
-{"version": "v1.0.98", "notes": "- Adiciona extract-zip como dependência (extração multiplataforma do ProjectMC)\n- Adiciona a rota /jogos → JogosPage\n- Cria client/src/styles/jogos-page.css\n- Cria client/src/pages/JogosPage.jsx (abas Jogos/Aplicativos + card do ProjectMC)"}
+{"version": "v1.0.99", "notes": "- Corrige 2 falhas silenciosas em projectMcManager.js (instalação 'sucesso' que não instala nada)\n- Faz a instalação do ProjectMC funcionar no Linux também"}
