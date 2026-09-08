@@ -1,1 +1,1 @@
-{"version": "v1.0.88", "notes": "- Mostra o \"Filtro de conteúdo\" na tela (avisar/ocultar)\n- Usa services/dmPermissions.js em assertAccess (inclui friends_groups)\n- Usa services/dmPermissions.js em createConversation (inclui friends_groups)\n- Cria services/dmPermissions.js (checagem única de dmPrivacy)"}
+{"version": "v1.0.89", "notes": "- Mostra aviso de \"perfil restrito\" quando a privacidade limita o acesso"}
