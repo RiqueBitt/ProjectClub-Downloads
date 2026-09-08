@@ -1,1 +1,1 @@
-{"version": "v1.0.84", "notes": "- Configurações: implementa a aba \"Jogos e apps\" (Parte 4 — última)"}
+{"version": "v1.0.85", "notes": "- Adiciona helpers de API pra \"Atalhos personalizados\" no client\n- Liga as rotas de /api/users/me/shortcuts ao shortcutsController\n- Adiciona backend de \"Atalhos personalizados\" (UserShortcut)"}
