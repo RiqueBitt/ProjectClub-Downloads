@@ -1,1 +1,1 @@
-{"version": "v1.0.90", "notes": "- Adiciona updateSettings ao preload.js (ponte pras Configurações reais)"}
+{"version": "v1.0.91", "notes": "- Envia UserSettings pro app desktop sempre que carrega/muda\n- Conecta Sistema (startWithSystem/minimizeToTray/openLinksInApp/confirmOnExit) ao app desktop"}
