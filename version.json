@@ -1,1 +1,1 @@
-{"version": "v1.0.91", "notes": "- Envia UserSettings pro app desktop sempre que carrega/muda\n- Conecta Sistema (startWithSystem/minimizeToTray/openLinksInApp/confirmOnExit) ao app desktop"}
+{"version": "v1.0.92", "notes": "- Conecta \"Detecção automática de jogos\" ao app desktop"}
