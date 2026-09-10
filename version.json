@@ -1,1 +1,1 @@
-{"version": "v1.0.106", "notes": "- Remove workflow e arquivo temporários de diagnóstico\n- Resultado do diagnostico\n- Diagnóstico temporário do DOWNLOADS_REPO_TOKEN"}
+{"version": "v1.0.107", "notes": "- Corrige 'Invalid package app.asar' de vez + termina auditoria de Configurações (3/6)"}
