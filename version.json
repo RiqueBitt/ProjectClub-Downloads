@@ -1,1 +1,1 @@
-{"version": "v1.0.110", "notes": "- Mostra versão e caminho de instalação do app na tela de Configurações (diagnóstico de instalações duplicadas)"}
+{"version": "v1.0.111", "notes": "- Corrige de vez 'Invalid package app.asar' com uma única instalação confirmada — causa era UAC Virtualization do Windows"}
