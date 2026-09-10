@@ -1,1 +1,1 @@
-{"version": "v1.0.99", "notes": "- Corrige 2 falhas silenciosas em projectMcManager.js (instalação 'sucesso' que não instala nada)\n- Faz a instalação do ProjectMC funcionar no Linux também"}
+{"version": "v1.0.106", "notes": "- Remove workflow e arquivo temporários de diagnóstico\n- Resultado do diagnostico\n- Diagnóstico temporário do DOWNLOADS_REPO_TOKEN"}
