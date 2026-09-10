@@ -1,1 +1,1 @@
-{"version": "v1.0.111", "notes": "- Corrige de vez 'Invalid package app.asar' com uma única instalação confirmada — causa era UAC Virtualization do Windows"}
+{"version": "v1.0.112", "notes": "- Verificação de integridade real por hash SHA256 — não só tamanho (v3)"}
