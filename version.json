@@ -1,1 +1,1 @@
-{"version": "v1.0.109", "notes": "- Corrige de vez o 'Invalid package app.asar' persistente — causa raiz era outra release sendo pega por engano"}
+{"version": "v1.0.110", "notes": "- Mostra versão e caminho de instalação do app na tela de Configurações (diagnóstico de instalações duplicadas)"}
