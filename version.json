@@ -1,1 +1,1 @@
-{"version": "v1.0.107", "notes": "- Corrige 'Invalid package app.asar' de vez + termina auditoria de Configurações (3/6)"}
+{"version": "v1.0.108", "notes": "- Corrige de vez 'Invalid package app.asar' — validação de integridade real (não só tamanho)"}
