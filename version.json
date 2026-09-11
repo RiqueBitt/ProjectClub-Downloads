@@ -1,1 +1,1 @@
-{"version": "v1.0.132", "notes": "- Reverte o zoom geral de 90% — volta a 100% normal, como era antes"}
+{"version": "v1.0.133", "notes": "- Zoom geral volta a 120% (o padrão histórico), com a compensação de altura sempre sincronizada dessa vez"}
