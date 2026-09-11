@@ -1,1 +1,1 @@
-{"version": "v1.0.115", "notes": "- Corrige: abrir um chat não rolava pra última mensagem em alguns casos"}
+{"version": "v1.0.116", "notes": "- Canais de voz: visual bem mais rico — card de entrada, tiles com gradiente, controles com elevação\n- Fluidez do chat: animações só em mensagens novas de verdade, reações com 'pop', hover mais suave"}
