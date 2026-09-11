@@ -1,1 +1,1 @@
-{"version": "v1.0.131", "notes": "- Zoom no app desktop: aplicado via preload (webFrame), não mais no processo principal — muito mais confiável"}
+{"version": "v1.0.132", "notes": "- Reverte o zoom geral de 90% — volta a 100% normal, como era antes"}
