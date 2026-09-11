@@ -1,1 +1,1 @@
-{"version": "v1.0.130", "notes": "- Corrige o bug de zoom que deixava uma sobra preta enorme no app desktop"}
+{"version": "v1.0.131", "notes": "- Zoom no app desktop: aplicado via preload (webFrame), não mais no processo principal — muito mais confiável"}
