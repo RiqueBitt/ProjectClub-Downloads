@@ -1,1 +1,1 @@
-{"version": "v1.0.114", "notes": "- Corrige de vez o erro que aparecia DURANTE a instalação — causa era o próprio Electron interceptando a leitura do app.asar"}
+{"version": "v1.0.115", "notes": "- Corrige: abrir um chat não rolava pra última mensagem em alguns casos"}
