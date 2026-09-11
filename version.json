@@ -1,1 +1,1 @@
-{"version": "v1.0.125", "notes": "- Adiciona o PhotoProject (editor de imagem) como segundo módulo instalável — Windows e Linux"}
+{"version": "v1.0.126", "notes": "- Corrige 3 bugs de raiz: logout ao mudar configuração, erro ao navegar exigindo reload, e participantes sumindo da call"}
