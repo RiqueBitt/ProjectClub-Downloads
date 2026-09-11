@@ -1,1 +1,1 @@
-{"version": "v1.0.133", "notes": "- Zoom geral volta a 120% (o padrão histórico), com a compensação de altura sempre sincronizada dessa vez"}
+{"version": "v1.0.134", "notes": "- Zoom da interface configurável nas Configurações — e corrige de vez o corte no app desktop, usando zoom nativo"}
