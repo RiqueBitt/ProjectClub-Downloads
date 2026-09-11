@@ -1,1 +1,1 @@
-{"version": "v1.0.121", "notes": "- Renomeia a aba 'Jogos' para 'Apps' (navegação e título da página, nos 3 idiomas)\n- Corrige o site fora do ar: deploy:start agora garante npm install antes do build"}
+{"version": "v1.0.122", "notes": "- Barra de título customizada no app desktop — sem moldura nativa do Windows, mesmo padrão visual do launcher de Minecraft"}
