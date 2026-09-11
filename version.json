@@ -1,1 +1,1 @@
-{"version": "v1.0.120", "notes": "-"}
+{"version": "v1.0.121", "notes": "- Renomeia a aba 'Jogos' para 'Apps' (navegação e título da página, nos 3 idiomas)\n- Corrige o site fora do ar: deploy:start agora garante npm install antes do build"}
