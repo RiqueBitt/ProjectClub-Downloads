@@ -1,1 +1,1 @@
-{"version": "v1.0.113", "notes": "- Reescreve a instalação do ProjectMC com padrão atômico 'instalar do lado, trocar depois' — causa raiz final"}
+{"version": "v1.0.114", "notes": "- Corrige de vez o erro que aparecia DURANTE a instalação — causa era o próprio Electron interceptando a leitura do app.asar"}
