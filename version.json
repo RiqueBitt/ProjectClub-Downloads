@@ -1,1 +1,1 @@
-{"version": "v1.0.134", "notes": "- Zoom da interface configurável nas Configurações — e corrige de vez o corte no app desktop, usando zoom nativo"}
+{"version": "v1.0.135", "notes": "- Corrige de vez o corte no rodapé dos apps (causa nunca foi o zoom) + zoom de 50-200% com campo pra digitar"}
