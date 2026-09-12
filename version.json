@@ -1,1 +1,1 @@
-{"version": "v1.0.139", "notes": "- Corrige 'o pacote baixado de PhotoProject não contém patchy.exe' — detecta o executável automaticamente quando o nome configurado não bate"}
+{"version": "v1.0.140", "notes": "- Adiciona o DaVinci Project (editor de vídeo) como quarto módulo instalável — Windows e Linux"}
