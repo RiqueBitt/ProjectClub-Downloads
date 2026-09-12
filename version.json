@@ -1,1 +1,1 @@
-{"version": "v1.0.136", "notes": "- Corrige as cores das telas de login/cadastro e da landing page — agora usam o mesmo tema do resto do Project Club"}
+{"version": "v1.0.137", "notes": "- Melhora desempenho e confiabilidade: erro falso de 'post não encontrado', queries duplicadas em cada ação, reconexão mais rápida"}
