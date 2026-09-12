@@ -1,1 +1,1 @@
-{"version": "v1.0.141", "notes": "- Corrige as descrições (e outros campos) dos apps não salvando no catálogo — erro real ficava silencioso, sem feedback"}
+{"version": "v1.0.142", "notes": "- Corrige de vez 'só a descrição do DaVinci Project dá erro ao salvar' — limite de tamanho no banco (VARCHAR 191 vs 500 validados no código)"}
