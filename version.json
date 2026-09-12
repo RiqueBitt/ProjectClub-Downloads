@@ -1,1 +1,1 @@
-{"version": "v1.0.140", "notes": "- Adiciona o DaVinci Project (editor de vídeo) como quarto módulo instalável — Windows e Linux"}
+{"version": "v1.0.141", "notes": "- Corrige as descrições (e outros campos) dos apps não salvando no catálogo — erro real ficava silencioso, sem feedback"}
