@@ -1,1 +1,1 @@
-{"version": "v1.0.137", "notes": "- Melhora desempenho e confiabilidade: erro falso de 'post não encontrado', queries duplicadas em cada ação, reconexão mais rápida"}
+{"version": "v1.0.138", "notes": "- Atualiza o nome do executável esperado do PhotoProject: patchy.exe -> PhotoProject.exe"}
