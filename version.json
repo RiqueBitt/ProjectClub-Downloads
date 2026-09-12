@@ -1,1 +1,1 @@
-{"version": "v1.0.135", "notes": "- Corrige de vez o corte no rodapé dos apps (causa nunca foi o zoom) + zoom de 50-200% com campo pra digitar"}
+{"version": "v1.0.136", "notes": "- Corrige as cores das telas de login/cadastro e da landing page — agora usam o mesmo tema do resto do Project Club"}
