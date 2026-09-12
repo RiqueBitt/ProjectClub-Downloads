@@ -1,1 +1,1 @@
-{"version": "v1.0.142", "notes": "- Corrige de vez 'só a descrição do DaVinci Project dá erro ao salvar' — limite de tamanho no banco (VARCHAR 191 vs 500 validados no código)"}
+{"version": "v1.0.143", "notes": "- Nova opção de layout em Aparência: Normal (atual) e Discord (canais num popover flutuante)"}
