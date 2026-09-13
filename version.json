@@ -1,1 +1,1 @@
-{"version": "v1.0.166", "notes": "- Painel da staff: redesign completo (sem rolagem lateral)"}
+{"version": "v1.0.167", "notes": "- Corrige Saturação e Contraste alto nunca aplicados visualmente (só eram salvos) — filter agora aplicado em #root, sem quebrar position:fixed portado pra document.body"}
