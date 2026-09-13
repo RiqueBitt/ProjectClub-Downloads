@@ -1,1 +1,1 @@
-{"version": "v1.0.150", "notes": "- Corrige 3 problemas: seta de expandir não funcionava, 2 botões duplicados no mobile, reload persistente ao trocar de canal"}
+{"version": "v1.0.151", "notes": "- Corrige canais não abrindo (causa raiz encontrada), seta sempre inicia fechada, renomeia layouts (Normal->Beta, Discord->Normal)"}
