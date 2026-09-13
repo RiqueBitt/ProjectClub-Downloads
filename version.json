@@ -1,1 +1,1 @@
-{"version": "v1.0.151", "notes": "- Corrige canais não abrindo (causa raiz encontrada), seta sempre inicia fechada, renomeia layouts (Normal->Beta, Discord->Normal)"}
+{"version": "v1.0.152", "notes": "- CORRIGE URGENTE: 'Algo deu errado' ao abrir Comunidade — ReferenceError (activeChannelId/navigate not defined)"}
