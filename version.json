@@ -1,1 +1,1 @@
-{"version": "v1.0.148", "notes": "- Corrige o reload de página ao trocar de canal + ícone-só em todas as seções (não só Comunidade)\n- Move a migração do layout Discord pro seed.js (roda automaticamente em todo deploy) — remove o endpoint HTTP que não conseguia ser chamado"}
+{"version": "v1.0.149", "notes": "- Mobile: um botão único abre a barra principal (ícones) e a lista de canais juntas, lado a lado"}
