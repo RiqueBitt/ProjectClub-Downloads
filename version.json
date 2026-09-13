@@ -1,1 +1,1 @@
-{"version": "v1.0.156", "notes": "- Continua a mudança Clãs->Clubes: remove a rota /clans antiga (redireciona), documenta a permissão de mensagens, limpa texto residual"}
+{"version": "v1.0.157", "notes": "- Adiciona a administração de Clubes no painel da Staff"}
