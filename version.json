@@ -1,1 +1,1 @@
-{"version": "v1.0.147", "notes": "- Discord vira o layout padrão + toggle manual da barra principal + corrige troca de canal no mobile"}
+{"version": "v1.0.148", "notes": "- Corrige o reload de página ao trocar de canal + ícone-só em todas as seções (não só Comunidade)\n- Move a migração do layout Discord pro seed.js (roda automaticamente em todo deploy) — remove o endpoint HTTP que não conseguia ser chamado"}
