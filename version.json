@@ -1,1 +1,1 @@
-{"version": "v1.0.168", "notes": "- Apps: remove abas Jogos/Aplicativos (menu único), redesign completo — badges de instalado/atualização, progresso de download melhorado, screenshots em grade sem rolagem lateral, lightbox com navegação\n- Corrige comentário desatualizado: privacidade de perfil/DM/filtro de conteúdo já é aplicada de verdade no servidor (não é mais só salva)"}
+{"version": "v1.0.169", "notes": "- Sistema de Mods (Apps → Mods) — Fase 1: detecção de Steam, integração com mod.io, instalação local pelo desktop, favoritos/ups/comentários/denúncias, painel admin"}
