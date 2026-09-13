@@ -1,1 +1,1 @@
-{"version": "v1.0.161", "notes": "- Corrige o nível não atualizar em tempo real (botão de criar Clube não aparecia mesmo no nível 10)"}
+{"version": "v1.0.162", "notes": "- Substitui os emojis pelos ícones novos nas Configurações do usuário\n- Reformula a sidebar das Configurações do usuário seguindo a referência visual enviada"}
