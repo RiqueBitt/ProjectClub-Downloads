@@ -1,1 +1,1 @@
-{"version": "v1.0.152", "notes": "- CORRIGE URGENTE: 'Algo deu errado' ao abrir Comunidade — ReferenceError (activeChannelId/navigate not defined)"}
+{"version": "v1.0.153", "notes": "- PhotoProject e DaVinci Project passam a usar .AppImage no Linux (arquivo único, sem extração) — Windows continua igual"}
