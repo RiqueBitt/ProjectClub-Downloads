@@ -1,1 +1,1 @@
-{"version": "v1.0.165", "notes": "- Corrige o tooltip não aparecer — era cortado pelo overflow-x: hidden do container da lista"}
+{"version": "v1.0.166", "notes": "- Painel da staff: redesign completo (sem rolagem lateral)"}
