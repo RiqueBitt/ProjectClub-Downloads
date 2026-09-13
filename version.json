@@ -1,1 +1,1 @@
-{"version": "v1.0.159", "notes": "- Corrige de vez o tom azul residual na barra de título — remove a mistura com --brand, usa o tom puro do tema"}
+{"version": "v1.0.160", "notes": "- Adiciona separador visual na barra de título (padrão já usado entre Online/Categorias/Canais) e confirma o arraste da janela"}
