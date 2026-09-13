@@ -1,1 +1,1 @@
-{"version": "v1.0.164", "notes": "- Adiciona sistema de tooltip nas categorias da barra principal quando minimizada"}
+{"version": "v1.0.165", "notes": "- Corrige o tooltip não aparecer — era cortado pelo overflow-x: hidden do container da lista"}
