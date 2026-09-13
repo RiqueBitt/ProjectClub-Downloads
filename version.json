@@ -1,1 +1,1 @@
-{"version": "v1.0.153", "notes": "- PhotoProject e DaVinci Project passam a usar .AppImage no Linux (arquivo único, sem extração) — Windows continua igual"}
+{"version": "v1.0.154", "notes": "- Melhoria completa da aba Apps: screenshots com lightbox, mais informações, downloads separados Windows/Linux, novo ícone"}
