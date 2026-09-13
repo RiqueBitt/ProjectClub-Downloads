@@ -1,1 +1,1 @@
-{"version": "v1.0.160", "notes": "- Adiciona separador visual na barra de título (padrão já usado entre Online/Categorias/Canais) e confirma o arraste da janela"}
+{"version": "v1.0.161", "notes": "- Corrige o nível não atualizar em tempo real (botão de criar Clube não aparecia mesmo no nível 10)"}
