@@ -1,1 +1,1 @@
-{"version": "v1.0.158", "notes": "- Corrige a barra de título não seguir o tema e o perfil grande sobrepondo a barra superior no app desktop"}
+{"version": "v1.0.159", "notes": "- Corrige de vez o tom azul residual na barra de título — remove a mistura com --brand, usa o tom puro do tema"}
