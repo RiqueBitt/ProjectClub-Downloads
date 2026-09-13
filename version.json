@@ -1,1 +1,1 @@
-{"version": "v1.0.149", "notes": "- Mobile: um botão único abre a barra principal (ícones) e a lista de canais juntas, lado a lado"}
+{"version": "v1.0.150", "notes": "- Corrige 3 problemas: seta de expandir não funcionava, 2 botões duplicados no mobile, reload persistente ao trocar de canal"}
