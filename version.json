@@ -1,1 +1,1 @@
-{"version": "v1.0.180", "notes": "- Perfil e chat — mini perfil: bio completa direto (sem botão 'ver mais'), remove conquistas em destaque; nomes personalizados: efeitos complexos (néon/arco-íris/glitch/etc) só no mini perfil e perfil completo agora — chat e lista de membros mostram só fonte+cor"}
+{"version": "v1.0.181", "notes": "- Sidebar e perfil — seta de colapsar mais visível e sem sobrepor o nome da comunidade; segundo clique no nome fecha o mini perfil; trocar de categoria fecha o perfil completo automaticamente"}
