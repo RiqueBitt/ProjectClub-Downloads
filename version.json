@@ -1,1 +1,1 @@
-{"version": "v1.0.171", "notes": "- Sistema de Mods — Coleções (item pedido 19): criar, listar, adicionar mod a uma coleção sua, instalar coleção inteira de uma vez\n- seed.js: tenta reconectar ao banco algumas vezes antes de desistir — evita que uma instabilidade de rede passageira no momento do deploy derrube o seed inteiro (o schema em si já tinha sido aplicado normal pelo db push)"}
+{"version": "v1.0.172", "notes": "- Sistema de Mods — integração com Steam Workshop (Terraria/tModLoader, Payday 2, Payday 3)"}
