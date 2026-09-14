@@ -1,1 +1,1 @@
-{"version": "v1.0.172", "notes": "- Sistema de Mods — integração com Steam Workshop (Terraria/tModLoader, Payday 2, Payday 3)"}
+{"version": "v1.0.173", "notes": "- Corrige rolagem quebrada no formulário de inscrição — .auth-screen tinha overflow:hidden, que bloqueava qualquer scroll pra alcançar o resto do formulário (bem mais alto que a tela de login) quando não cabia na tela"}
