@@ -1,1 +1,1 @@
-{"version": "v1.0.188", "notes": "- Corrige scroll do celular \"passando por cima\" da barra de digitar"}
+{"version": "v1.0.189", "notes": "- Corrige gesto de swipe abrindo/fechando a lista de online ao tocar nela\n- Chat: cor/efeito completo do nome (igual mini perfil e perfil) + pingente maior\n- Importa mobile-scroll-fix.css depois de global.css"}
