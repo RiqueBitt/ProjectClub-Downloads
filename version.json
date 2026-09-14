@@ -1,1 +1,1 @@
-{"version": "v1.0.186", "notes": "- Mobile — ícone do botão de abrir a comunidade trocado de ☰ genérico pra '#', o mesmo símbolo já usado pra canal de texto no resto do app"}
+{"version": "v1.0.187", "notes": "- Correções: ícone de comunidade no mobile, scroll do chat vazando na digitação, tooltip da sidebar preso por cima do conteúdo, menu de GIFs saindo da tela, pingente como imagem própria"}
