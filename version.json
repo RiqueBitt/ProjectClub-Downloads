@@ -1,1 +1,1 @@
-{"version": "v1.0.176", "notes": "- Sistema de Mods — funcionalidades próprias inspiradas no r2modmanPlus (sem incorporar o código dele): abrir pasta de mods, instalar de arquivo local, editor de configuração, capa da Steam automática"}
+{"version": "v1.0.177", "notes": "- Sistema de Mods — corrige banner quebrado do GameBanana, funde Workshop+GameBanana+mod.io num só cartão por jogo, corrige AppID do Terraria, mais jogos"}
