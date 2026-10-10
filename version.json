@@ -1,1 +1,1 @@
-{"version": "v1.2.7", "notes": "- Status (online/offline) por cima da moldura"}
+{"version": "v1.2.8", "notes": "- CI Android: usa o SDK que já vem no runner (setup-android falhava e o APK não saía)"}
