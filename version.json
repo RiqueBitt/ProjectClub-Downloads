@@ -1,1 +1,1 @@
-{"version": "v1.1.0", "notes": "- feat: janela de download com login salvo no app de PC e mods com download direto primeiro"}
+{"version": "v1.1.1", "notes": "- fix: link de download não vai mais pro Windows e app de PC se atualiza sozinho"}
