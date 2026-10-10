@@ -1,1 +1,1 @@
-{"version": "v1.2.5", "notes": "- Loja no celular: página rola e a barra de baixo fica no lugar\n- Corrige erro 500 ao aprovar/recusar inscrições (log de auditoria faltando)"}
+{"version": "v1.2.6", "notes": "- Molduras: sem cortes (cabem no espaço do avatar), animadas e em todo lugar (chat, membros, perfil, miniperfil)"}
