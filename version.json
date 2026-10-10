@@ -1,1 +1,1 @@
-{"version": "v1.2.8", "notes": "- CI Android: usa o SDK que já vem no runner (setup-android falhava e o APK não saía)"}
+{"version": "v1.2.9", "notes": "- CI Android: usa o SDK do runner (APK não era gerado)"}
