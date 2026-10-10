@@ -1,1 +1,1 @@
-{"version": "v1.2.4", "notes": "- Loja: molduras de avatar compráveis com moedas ou gemas, editor na staff\n- Corrige deploy: enquete do Fórum sem unique novo (prisma db push travava)"}
+{"version": "v1.2.5", "notes": "- Loja no celular: página rola e a barra de baixo fica no lugar\n- Corrige erro 500 ao aprovar/recusar inscrições (log de auditoria faltando)"}
