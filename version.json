@@ -1,1 +1,1 @@
-{"version": "v1.2.9", "notes": "- CI Android: usa o SDK do runner (APK não era gerado)"}
+{"version": "v1.2.10", "notes": "- Chat e desempenho: Shift+Enter, colar imagem, foco ao responder, seletores fecham com Esc/clique fora, painel lateral reabrível, atualização automática bem mais leve quando parado"}
