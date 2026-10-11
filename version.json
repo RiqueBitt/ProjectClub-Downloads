@@ -1,1 +1,1 @@
-{"version": "v1.2.10", "notes": "- Chat e desempenho: Shift+Enter, colar imagem, foco ao responder, seletores fecham com Esc/clique fora, painel lateral reabrível, atualização automática bem mais leve quando parado"}
+{"version": "v1.2.11", "notes": "- Chamadas e desempenho: sincronização de participantes/transmissões, volume individual por transmissão, menos requisições e CPU parado"}
