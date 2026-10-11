@@ -1,1 +1,1 @@
-{"version": "v1.2.15", "notes": "- Perfil grande ocupa toda a largura da tela"}
+{"version": "v1.2.16", "notes": "- Otimização geral (inicialização em 1 pedido, perfil sob demanda, imagens comprimidas sem perder qualidade, mensagens mais leves), correção do criador de insígnias e outros criadores, capas na biblioteca de jogos, central de notificações, extras de chat e voz"}
